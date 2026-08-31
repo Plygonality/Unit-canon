@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "unit": "meter",
+  "meters_per_grid": 1.0,
+  "deck_height": 3.0,
+  "airlock_diameter": 1.0,
+  "human_figure": {
+    "asset_name": "HumanFigure",
+    "standing_height": 1.8,
+    "eye_height": 1.65,
+    "shoulder_width": 0.45
+  }
+}
