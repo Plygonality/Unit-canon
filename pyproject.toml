@@ -1,7 +1,7 @@
 [project]
 name = "unit-canon"
 version = "0.1.0"
-description = "Single source of truth for scale: meters per grid, deck height, airlock diameter, human figure."
+description = "Canon scale for Geometry Nodes and Unreal: meters per grid, deck height, airlock diameter, and the human figure."
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
