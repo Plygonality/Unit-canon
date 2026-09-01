@@ -1,6 +1,8 @@
 # Unit-canon
 
-One file. Four measures. Every Geometry Nodes input and every export path reads this file — nothing else.
+Canon scale for Geometry Nodes and Unreal: meters per grid, deck height, airlock diameter, and the human figure.
+
+One file holds those four measures. Every GN input and every export path reads that file — gn-as-code defaults, the collection-linter, and Unreal export later. Nothing else keeps a copy.
 
 [`src/unit_canon/canon.json`](src/unit_canon/canon.json)
 
